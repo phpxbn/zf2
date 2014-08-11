@@ -19,7 +19,7 @@ class Memory {
 	 *
 	 * @param String $file        	
 	 * @param Array $option        	
-	 * @return \Zend\Memory\MemoryManager *
+	 * @return \Zend\Memory\MemoryManager 
 	 */
 	public static function factory($file = "None", $option = null) {
 		
